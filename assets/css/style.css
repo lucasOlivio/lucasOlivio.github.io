@@ -58,7 +58,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: #3572ff;
   text-decoration: underline;
 }
 
@@ -84,12 +84,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: #3572ff;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: #3572ff;
   color: #fff;
 }
 
@@ -166,7 +166,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: #3572ff;
 }
 
 .mb-30 {
@@ -520,7 +520,7 @@ lo {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #3572ff;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -562,7 +562,7 @@ lo {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #3572ff;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
@@ -576,6 +576,10 @@ lo {
 #portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
   bottom: 20px;
+}
+
+.portfolio-img {
+  width: 100%;
 }
 
 /*--------------------------------------------------------------
@@ -609,7 +613,7 @@ lo {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #b8a07e !important;
+  background-color: #3572ff !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -711,7 +715,7 @@ lo {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #3572ff;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -859,7 +863,7 @@ lo {
 }
 
 .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: #3572ff;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -943,7 +947,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #b8a07e;
+  border-left: 4px solid #3572ff;
 }
 
 /*--------------------------------------------------------------
@@ -982,7 +986,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #3572ff;
   transition: all 0.5s ease-in-out 0s;
 }
 
